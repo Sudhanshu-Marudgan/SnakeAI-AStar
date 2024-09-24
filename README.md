@@ -6,7 +6,7 @@
 This project implements an AI-controlled Snake game using the A* search algorithm to optimize pathfinding and ensure that the snake navigates the grid effectively while avoiding collisions. The AI snake autonomously plays the classic Snake game by finding the optimal path to reach the apple using A* algorithm, and continues to grow with each apple it consumes.
 
 
-<p align="center"> <img src="SnakeAI.gif" height=30px width=30px> </p>
+<p align="center"> <img src="SnakeAI.gif" height=300px width=300px> </p>
 
 
 ## Features
