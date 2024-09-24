@@ -36,11 +36,11 @@ The A* algorithm is used to determine the optimal path by considering both the d
 Make sure you have the following installed on your system:
 - **Python 3.x**
 - **Pygame:** Install using the command:
-  - ```bash
+  ```bash
     pip install pygame
     ```
 - **Numpy:** Install using the command:
-  - ```bash
+   ```bash
     pip install numpy
     ```
 
