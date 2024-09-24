@@ -53,7 +53,7 @@ Make sure you have the following installed on your system:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd SnakeAI-Astar
+   cd SnakeAI-AStar
    ```
 3. Run the code:
    ```bash
